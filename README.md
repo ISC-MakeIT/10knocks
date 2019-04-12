@@ -22,16 +22,17 @@ IT関係では自分で調べる能力が重要です。なるべく自分で検
 ## 問題
 
 1. HelloWorld  
-「Hello,World!」を見出しタグで３つの大きさで表示する。<details><summary>ヒント</summary><div>`HTML h1`</div></details><br/>
+「Hello,World!」を見出しタグと段落タグを使い、３つの大きさで表示する。<details><summary>ヒント</summary><div>`HTML h1`</div></details><br/>
 
-2. YahooAnchor  
-「Yahooへ」という表記のYAHOO!JAPAN`https://www.yahoo.co.jp/`へのリンクを作成する。<details><summary>ヒント</summary><div>`HTML a`</div></details><br/>
+2. Anchor  
+「Welcome to Make IT!」という表記の Make IT のホームページ `https://isc-makeit.github.io/Make-IT-homepage/` へのリンクを作成する。<details><summary>ヒント</summary><div>`HTML a`</div></details><br/>
 
-3. Image  
-HTMLに好きな画像を張り付ける。<details><summary>ヒント</summary><div>`HTML img`</div></details><br/>
-
-4. List  
+3. List  
 点のリストと数字のリストを作成する。<details><summary>ヒント</summary><div>`HTML ul ol`</div></details><br/>
+
+4. Image  
+'images'フォルダを作り、好きな画像を２枚入れる。  
+絶対パスと相対パスを利用して、HTMLに'images'にある２枚の画像を張り付ける。<details><summary>ヒント</summary><div>`HTML img`</div></details><br/>
 
 CSSファイルを作成し、以下の問題を解いてください。
 
@@ -45,7 +46,7 @@ CSSファイルを作成し、以下の問題を解いてください。
 オレンジ色で100pxの「みかん」、赤色で70pxの「りんご」、紫色で50pxの「ぶどう」、の３文字を表示する。<details><summary>ヒント</summary><div>`CSS class`</div></details><br/>
 
 8. Table  
-３×４の表を作成する。<details><summary>ヒント</summary><div>`HTML table border`</div></details><br/>
+縦３×横４の表を作成する。<details><summary>ヒント</summary><div>`HTML table border`</div></details><br/>
 
 9. Console  
 コンソールに文字を表示する。（F12キーで確認）<details><summary>ヒント</summary><div>`JavaScript console`</div></details><br/>
