@@ -22,19 +22,19 @@
 <details><summary>挙動</summary>
 1
 2
-buzz
-4
 fizz
+4
 buzz
+fizz
 7
 8
-buzz
 fizz
-11
 buzz
+11
+fizz
 13
 14
-fizz
+buzz
 </details><br/>
 
 #### 1.a
@@ -43,16 +43,16 @@ fizz
 <details><summary>挙動</summary>
 1
 2
-buzz
-4
 fizz
+4
 buzz
+fizz
 7
 8
-buzz
 fizz
-11
 buzz
+11
+fizz
 13
 14
 fizzbuzz
